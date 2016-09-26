@@ -14,7 +14,8 @@
     font-size: 40px;
     line-height: 40px; }
   .hero.landscape {
-    color: white; }
+    color: white;
+    background-image: url("../img/intro/hara.jpg"); }
   .hero.bridge {
     background-image: url("../img/bridge/full-width.jpg");
     width: 100%; }
